@@ -108,7 +108,7 @@ Let's Go! 這次咱們就從最基礎的英文開始說起。
 
 其中還有兩種特別容易出現形容詞的用法
 
-#### 在`S+V+C`句型中，放在be/become/remain的後方
+#### 在S+V+C句型中，放在be/become/remain的後方
 
 當be、become、remain這幾個`S+V+C`的用法出現時，後方通常會出現**形容詞**居多。
 
@@ -116,7 +116,7 @@ Let's Go! 這次咱們就從最基礎的英文開始說起。
 * He become **interested** in the job.
 * She has remained **beautiful** all the time.
 
-#### 在`S+V+O+OC`句型中作為受詞補語方式出現
+#### 在S+V+O+OC句型中作為受詞補語方式出現
 
 其中很常出現在make、keep、find等動詞後面受詞的補語。
 
